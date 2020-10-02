@@ -8,7 +8,8 @@
 		<img src="https://github.com/sebastianpc/sebastianpc/raw/master/video.svg" width="800" height="400">
 	</a>
 	<br>
-</div>
-<div>
-	<p>- My favorite programming language: <a href="https://www.python.org/">Python</a></p>
+	<a href="https://www.python.org/">
+		<img src="https://github.com/sebastianpc/sebastianpc/raw/master/programminglanguage.svg" width="800" height="400">
+	</a>
+	<br>
 </div>
