@@ -7,8 +7,4 @@
 		<img src="https://github.com/sebastianpc/sebastianpc/raw/master/header.svg" width="800" height="400">
 	</a>
 	<br>
-	<a href="https://www.python.org/">
-		<img src="https://github.com/sebastianpc/sebastianpc/raw/master/programminglanguage.svg" width="800" height="400">
-	</a>
-	<br>
 </div>
